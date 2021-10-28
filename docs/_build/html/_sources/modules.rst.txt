@@ -1,8 +1,8 @@
-TrieClient
-==========
+ReadTheDocsHost
+===============
 
 .. toctree::
    :maxdepth: 4
 
-   triecli
    cli
+   triecli
