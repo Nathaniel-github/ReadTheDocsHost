@@ -1,8 +1,8 @@
 import time
-import inquirer
-from inquirer.themes import GreenPassion
+#import inquirer
+#from inquirer.themes import GreenPassion
 from cli.trie_nathaniel import request
-import click
+#import click
 
 
 #@click.group()
